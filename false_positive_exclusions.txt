@@ -1,14 +1,11 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Pornhub
@@ -22,13 +19,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
-xHamster
