@@ -1,6 +1,7 @@
 APClips
 Archive.org
 Codolio
+Cults3D
 GeeksforGeeks
 Giphy
 Hashnode
@@ -16,14 +17,16 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
