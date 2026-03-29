@@ -1,12 +1,14 @@
 APClips
 Archive.org
+Chess
 Codolio
 DeviantArt
+DigitalSpy
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LushStories
+LessWrong
 Minecraft
 Patched
 PocketStars
@@ -17,6 +19,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
