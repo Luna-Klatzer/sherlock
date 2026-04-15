@@ -4,7 +4,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 GeeksforGeeks
@@ -13,14 +12,12 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -31,6 +28,7 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+dailykos
 interpals
 mercadolivre
 opennet
