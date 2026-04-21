@@ -13,13 +13,11 @@ Hubski
 LessWrong
 LushStories
 Patched
-PocketStars
 Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -37,3 +35,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
