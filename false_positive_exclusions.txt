@@ -16,6 +16,8 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -28,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -41,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
