@@ -3,7 +3,6 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -17,6 +16,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 Patched
 Pornhub
@@ -34,6 +34,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -43,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
