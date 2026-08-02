@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -20,7 +21,7 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
-LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -48,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
