@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
+BabyRu
 Bandcamp
 Championat
 Chatujme.cz
@@ -20,8 +21,8 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 ObservableHQ
+Odysee
 PCGamer
 Rarible
 Realmeye
@@ -33,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+TikTok
 Trakt
 Trovo
 TryHackMe
